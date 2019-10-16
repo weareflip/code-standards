@@ -1,3 +1,14 @@
 # Frontend
 `@TODO`
-- TypeScript. Use it.
+
+## CSS
+`@TODO`
+
+## SPA
+`@TODO`
+
+### Tech stack
+- Typescript
+- React
+    - Only functional componenent w/ hooks
+- MobX
