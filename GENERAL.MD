@@ -1,0 +1,11 @@
+# General
+- Use descriptive names for everything. No one likes `var a1`.
+- Readability > Cleverness.
+- Stay consistent.
+- Seperation of concerns: each function should do _one_ thing and do it well.
+- Good code comments itself.
+- Remove unnecessary/unused code and imports.
+- If you're unsure of something, don't be scared ask your peers. We're here to help.
+- Write code that a human can understand, not just the interpreter.
+- DRY (don't repeat yourself).
+- KISS (keep it simple, stupid).
